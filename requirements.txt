@@ -2,3 +2,6 @@ openai==0.28
 youtube_transcript_api
 whisper
 python-dotenv
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client

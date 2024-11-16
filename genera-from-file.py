@@ -71,4 +71,4 @@ def main(video_path):
         print("No se pudo obtener la transcripción.")
 
 # Llama a la función main con la ruta del archivo de video
-main("/mnt/f/YoutubeVideos/ActualizaciónGATrueNAS.mp4")
+main("/mnt/g/YoutubeVideos/FydeOS.mp4")

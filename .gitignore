@@ -1,6 +1,8 @@
 .env
 .venv*
 fabric
+token.json
+credentials.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

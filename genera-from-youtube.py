@@ -88,4 +88,4 @@ def main(video_url):
         print("No se pudo obtener la transcripción.")
 
 # Llama a la función main con la URL de YouTube
-main("https://www.youtube.com/watch?v=pVo8RNGr0hc")
+main("https://www.youtube.com/watch?v=jh1GuEHyANs")
